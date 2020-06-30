@@ -1,6 +1,6 @@
 [
   {
-    "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
+    "repoPath": "https://github.com/matthewmichihara/cloud-code-samples.git",
     "directoryPath": "python/python-hello-world",
     "templatePath": "python-hello-world",
     "templateName": "Python (Flask): Hello World",
@@ -8,7 +8,7 @@
     "runPlatforms": ["kubernetes"]
   },
   {
-    "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
+    "repoPath": "https://github.com/matthewmichihara/cloud-code-samples.git",
     "directoryPath": "python/python-guestbook",
     "templatePath": "python-guestbook",
     "templateName": "Python (Flask): Guestbook",
@@ -16,7 +16,7 @@
     "runPlatforms": ["kubernetes"]
   },
   {
-    "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
+    "repoPath": "https://github.com/matthewmichihara/cloud-code-samples.git",
     "directoryPath": "python/cloud-run-python-hello-world",
     "templatePath": "cloud-run-python-hello-world",
     "templateName": "Python (Flask): Cloud Run",
@@ -24,7 +24,7 @@
     "runPlatforms": ["cloudrun"]
   },
   {
-    "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
+    "repoPath": "https://github.com/matthewmichihara/cloud-code-samples.git",
     "directoryPath": "python/django/python-hello-world",
     "templatePath": "python-django-hello-world",
     "templateName": "Python (Django): Hello World",
@@ -32,7 +32,7 @@
     "runPlatforms": ["kubernetes"]
   },
   {
-    "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
+    "repoPath": "https://github.com/matthewmichihara/cloud-code-samples.git",
     "directoryPath": "python/django/python-guestbook",
     "templatePath": "python-django-guestbook",
     "templateName": "Python (Django): Guestbook",
@@ -40,7 +40,7 @@
     "runPlatforms": ["kubernetes"]
   },
   {
-    "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
+    "repoPath": "https://github.com/matthewmichihara/cloud-code-samples.git",
     "directoryPath": "python/cloud-run-django-hello-world",
     "templatePath": "cloud-run-django-hello-world",
     "templateName": "Python (Django): Cloud Run",
